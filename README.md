@@ -48,26 +48,28 @@ Fora do horário de aula ou monitoria:
 
 ## Lição de casa
 
-| Aula | Descrição |
-|:-----|:----------|
+| script                 | link                                                                            |
+|:-----------------------|:--------------------------------------------------------------------------------|
+| 010-meu-primeiro-app.R | <https://curso-r.github.io/202105-dashboards/exercicios/010-meu-primeiro-app.R> |
 
 ## Lição de casa extra 🤓
 
-| Aula | Descrição |
-|:-----|:----------|
+| script                  | link                                                                             |
+|:------------------------|:---------------------------------------------------------------------------------|
+| extra-01-input-output.R | <https://curso-r.github.io/202105-dashboards/exercicios/extra-01-input-output.R> |
 
 ## Material extra
 
 Referências extras comentadas nas aulas.
 
 | Aula | Tema | Descrição |
-|:-----|:-----|:----------|
+|-----:|:-----|:----------|
 
 Materiais que comentamos quando tiramos dúvidas (não necessariamente são
 relacionadas com o conteúdo da aula).
 
 | Aula | Tema | Descrição |
-|:-----|:-----|:----------|
+|-----:|:-----|:----------|
 
 ## Redes sociais da Curso-R
 

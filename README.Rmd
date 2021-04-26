@@ -83,21 +83,27 @@ knitr::kable(
 ## Lição de casa
 
 ```{r}
-readxl::read_excel("tab_exercicios.xlsx") %>%
-  dplyr::filter(extra == "nao", aula <= num_aula) %>% 
-  dplyr::mutate(link = glue::glue("[{desc}]({url})")) %>%
-  dplyr::select(-desc, -url, -extra) %>%
-  knitr::kable(col.names = c("Aula", "Descrição"))
+pasta <- "exercicios/"
+knitr::kable(
+  tibble::tibble(
+    script = list.files(pasta, pattern = "^[0-9].*\\.R$"),
+    link = paste0("https://curso-r.github.io/", turma, "/", pasta, script)
+  ) %>% 
+    dplyr::slice(1)
+) 
 ```
 
 ## Lição de casa extra &#x1f913;
 
 ```{r}
-readxl::read_excel("tab_exercicios.xlsx") %>%
-  dplyr::filter(extra == "sim", aula <= num_aula) %>% 
-  dplyr::mutate(link = glue::glue("[{desc}]({url})")) %>%
-  dplyr::select(-desc, -url, -extra) %>%
-  knitr::kable(col.names = c("Aula", "Descrição"))
+pasta <- "exercicios/"
+knitr::kable(
+  tibble::tibble(
+    script = list.files(pasta, pattern = "^extra.*\\.R$"),
+    link = paste0("https://curso-r.github.io/", turma, "/", pasta, script)
+  ) %>% 
+    dplyr::slice(1)
+) 
 ```
 
 ## Material extra
