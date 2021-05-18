@@ -49,26 +49,11 @@ knitr::kable(
     link = paste0("https://curso-r.github.io/", main_repo, "/", slide)
   ) %>% 
     dplyr::filter(!stringr::str_detect(slide, "_files/")) %>% 
-    dplyr::slice(1)
+    dplyr::slice(1:2)
 )
 ```
 
 ## Scripts utilizados em aula
-
-### Parte teórica
-
-```{r}
-pasta <- "scripts/"
-knitr::kable(
-  tibble::tibble(
-    script = list.files(pasta, pattern = ".R"),
-    link = paste0("https://curso-r.github.io/", turma, "/", pasta, script)
-  ) %>% 
-    dplyr::slice(1)
-)
-```
-
-### Parte prática
 
 ```{r}
 pasta <- "pratica/"
@@ -89,7 +74,7 @@ knitr::kable(
     script = list.files(pasta, pattern = "^[0-9].*\\.R$"),
     link = paste0("https://curso-r.github.io/", turma, "/", pasta, script)
   ) %>% 
-    dplyr::slice(1)
+    dplyr::slice(1:2)
 ) 
 ```
 

@@ -33,6 +33,7 @@ Fora do horário de aula ou monitoria:
 | slide                                | link                                                                           |
 |:-------------------------------------|:-------------------------------------------------------------------------------|
 | slides/01-introducao\_ao\_curso.html | <https://curso-r.github.io/main-dashboards/slides/01-introducao_ao_curso.html> |
+| slides/02-shiny-introducao.html      | <https://curso-r.github.io/main-dashboards/slides/02-shiny-introducao.html>    |
 
 ## Scripts utilizados em aula
 
@@ -51,12 +52,13 @@ Fora do horário de aula ou monitoria:
 | script                 | link                                                                            |
 |:-----------------------|:--------------------------------------------------------------------------------|
 | 010-meu-primeiro-app.R | <https://curso-r.github.io/202105-dashboards/exercicios/010-meu-primeiro-app.R> |
+| 011-mey-segundo-app.R  | <https://curso-r.github.io/202105-dashboards/exercicios/011-mey-segundo-app.R>  |
 
 ## Lição de casa extra 🤓
 
-| script                  | link                                                                             |
-|:------------------------|:---------------------------------------------------------------------------------|
-| extra-01-input-output.R | <https://curso-r.github.io/202105-dashboards/exercicios/extra-01-input-output.R> |
+| script                   | link                                                                              |
+|:-------------------------|:----------------------------------------------------------------------------------|
+| extra-010-input-output.R | <https://curso-r.github.io/202105-dashboards/exercicios/extra-010-input-output.R> |
 
 ## Material extra
 
