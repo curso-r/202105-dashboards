@@ -1,7 +1,7 @@
 # Selecionando várias opções
 # 
 # (a) Reproduza o seguinte Shiny app: 
-# https://cursodashboards.shinyapps.io/selectMultiple/
+# https://cursodashboards.shinyapps.io/select-multiple/
 #   
 # (b) Troque o selectInput pelo checkboxGroupInput().
 # 
