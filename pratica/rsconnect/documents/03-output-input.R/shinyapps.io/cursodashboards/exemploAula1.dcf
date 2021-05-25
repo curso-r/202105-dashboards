@@ -1,0 +1,13 @@
+name: exemploAula1
+title: exemploAula1
+username:
+account: cursodashboards
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4179854
+bundleId: 4635409
+url: https://cursodashboards.shinyapps.io/exemploAula1/
+when: 1621904119.23025
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 01-ola-mundo.R|02-output.R
