@@ -52,16 +52,22 @@ Fora do horário de aula ou monitoria:
 
 ## Lição de casa
 
-| script                 | link                                                                            |
-|:-----------------------|:--------------------------------------------------------------------------------|
-| 010-meu-primeiro-app.R | <https://curso-r.github.io/202105-dashboards/exercicios/010-meu-primeiro-app.R> |
-| 011-mey-segundo-app.R  | <https://curso-r.github.io/202105-dashboards/exercicios/011-mey-segundo-app.R>  |
+| script                       | link                                                                                  |
+|:-----------------------------|:--------------------------------------------------------------------------------------|
+| 010-meu-primeiro-app.R       | <https://curso-r.github.io/202105-dashboards/exercicios/010-meu-primeiro-app.R>       |
+| 011-mey-segundo-app.R        | <https://curso-r.github.io/202105-dashboards/exercicios/011-mey-segundo-app.R>        |
+| 020-inputs-outputs-credito.R | <https://curso-r.github.io/202105-dashboards/exercicios/020-inputs-outputs-credito.R> |
+| 021-inputs-outputs-pokemon.R | <https://curso-r.github.io/202105-dashboards/exercicios/021-inputs-outputs-pokemon.R> |
+| 022-inputs-outputs-ssp.R     | <https://curso-r.github.io/202105-dashboards/exercicios/022-inputs-outputs-ssp.R>     |
 
 ## Lição de casa extra 🤓
 
-| script                   | link                                                                              |
-|:-------------------------|:----------------------------------------------------------------------------------|
-| extra-010-input-output.R | <https://curso-r.github.io/202105-dashboards/exercicios/extra-010-input-output.R> |
+| script                       | link                                                                                  |
+|:-----------------------------|:--------------------------------------------------------------------------------------|
+| extra-010-input-output.R     | <https://curso-r.github.io/202105-dashboards/exercicios/extra-010-input-output.R>     |
+| extra-020-input-output.R     | <https://curso-r.github.io/202105-dashboards/exercicios/extra-020-input-output.R>     |
+| extra-021-selecao-multipla.R | <https://curso-r.github.io/202105-dashboards/exercicios/extra-021-selecao-multipla.R> |
+| extra-022-date-input.R       | <https://curso-r.github.io/202105-dashboards/exercicios/extra-022-date-input.R>       |
 
 ## Material extra
 
