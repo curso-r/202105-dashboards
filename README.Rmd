@@ -45,7 +45,7 @@ Fora do horário de aula ou monitoria:
 ```{r}
 knitr::kable(
   tibble::tibble(
-    slide = CursoRutils:::list_github_files(main_repo, "slides/", "html"),
+    slide = CursoRutils:::list_github_files(main_repo, "slides/", "\\.html"),
     link = paste0("https://curso-r.github.io/", main_repo, "/", slide)
   ) %>% 
     dplyr::filter(!stringr::str_detect(slide, "_files/")) %>% 
