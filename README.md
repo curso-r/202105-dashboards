@@ -66,6 +66,8 @@ Fora do horário de aula ou monitoria:
 | 020-inputs-outputs-credito.R | <https://curso-r.github.io/202105-dashboards/exercicios/020-inputs-outputs-credito.R> |
 | 021-inputs-outputs-pokemon.R | <https://curso-r.github.io/202105-dashboards/exercicios/021-inputs-outputs-pokemon.R> |
 | 022-inputs-outputs-ssp.R     | <https://curso-r.github.io/202105-dashboards/exercicios/022-inputs-outputs-ssp.R>     |
+| 030-sidebarLayout.R          | <https://curso-r.github.io/202105-dashboards/exercicios/030-sidebarLayout.R>          |
+| 031-navbarPage.R             | <https://curso-r.github.io/202105-dashboards/exercicios/031-navbarPage.R>             |
 
 ## Lição de casa extra 🤓
 
