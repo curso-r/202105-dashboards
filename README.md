@@ -42,22 +42,25 @@ Fora do horário de aula ou monitoria:
 
 ## Scripts utilizados em aula
 
-| script                     | link                                                                             |
-|:---------------------------|:---------------------------------------------------------------------------------|
-| 01-ola-mundo.R             | <https://curso-r.github.io/202105-dashboards/pratica/01-ola-mundo.R>             |
-| 02-output.R                | <https://curso-r.github.io/202105-dashboards/pratica/02-output.R>                |
-| 03-output-input.R          | <https://curso-r.github.io/202105-dashboards/pratica/03-output-input.R>          |
-| 04-hist-normal.R           | <https://curso-r.github.io/202105-dashboards/pratica/04-hist-normal.R>           |
-| 05-dois-outputs.R          | <https://curso-r.github.io/202105-dashboards/pratica/05-dois-outputs.R>          |
-| 06-reactive.R              | <https://curso-r.github.io/202105-dashboards/pratica/06-reactive.R>              |
-| 07-eventReactive.R         | <https://curso-r.github.io/202105-dashboards/pratica/07-eventReactive.R>         |
-| 08-debug.R                 | <https://curso-r.github.io/202105-dashboards/pratica/08-debug.R>                 |
-| 09-dados.R                 | <https://curso-r.github.io/202105-dashboards/pratica/09-dados.R>                 |
-| 11-gridsystem.R            | <https://curso-r.github.io/202105-dashboards/pratica/11-gridsystem.R>            |
-| 12-sideBarLayout.R         | <https://curso-r.github.io/202105-dashboards/pratica/12-sideBarLayout.R>         |
-| 13-navbarPage.R            | <https://curso-r.github.io/202105-dashboards/pratica/13-navbarPage.R>            |
-| 14-shinydashboard-layout.R | <https://curso-r.github.io/202105-dashboards/pratica/14-shinydashboard-layout.R> |
-| 15-shinydashboard-menu.R   | <https://curso-r.github.io/202105-dashboards/pratica/15-shinydashboard-menu.R>   |
+| script                        | link                                                                                |
+|:------------------------------|:------------------------------------------------------------------------------------|
+| 01-ola-mundo.R                | <https://curso-r.github.io/202105-dashboards/pratica/01-ola-mundo.R>                |
+| 02-output.R                   | <https://curso-r.github.io/202105-dashboards/pratica/02-output.R>                   |
+| 03-output-input.R             | <https://curso-r.github.io/202105-dashboards/pratica/03-output-input.R>             |
+| 04-hist-normal.R              | <https://curso-r.github.io/202105-dashboards/pratica/04-hist-normal.R>              |
+| 05-dois-outputs.R             | <https://curso-r.github.io/202105-dashboards/pratica/05-dois-outputs.R>             |
+| 06-reactive.R                 | <https://curso-r.github.io/202105-dashboards/pratica/06-reactive.R>                 |
+| 07-eventReactive.R            | <https://curso-r.github.io/202105-dashboards/pratica/07-eventReactive.R>            |
+| 08-debug.R                    | <https://curso-r.github.io/202105-dashboards/pratica/08-debug.R>                    |
+| 09-dados.R                    | <https://curso-r.github.io/202105-dashboards/pratica/09-dados.R>                    |
+| 11-gridsystem.R               | <https://curso-r.github.io/202105-dashboards/pratica/11-gridsystem.R>               |
+| 12-sideBarLayout.R            | <https://curso-r.github.io/202105-dashboards/pratica/12-sideBarLayout.R>            |
+| 13-navbarPage.R               | <https://curso-r.github.io/202105-dashboards/pratica/13-navbarPage.R>               |
+| 14-shinydashboard-layout.R    | <https://curso-r.github.io/202105-dashboards/pratica/14-shinydashboard-layout.R>    |
+| 15-shinydashboard-menu.R      | <https://curso-r.github.io/202105-dashboards/pratica/15-shinydashboard-menu.R>      |
+| 16-shinydashboard-elementos.R | <https://curso-r.github.io/202105-dashboards/pratica/16-shinydashboard-elementos.R> |
+| 17-bs4dash.R                  | <https://curso-r.github.io/202105-dashboards/pratica/17-bs4dash.R>                  |
+| extra-googlesheets.R          | <https://curso-r.github.io/202105-dashboards/pratica/extra-googlesheets.R>          |
 
 ## Lição de casa
 
@@ -70,6 +73,7 @@ Fora do horário de aula ou monitoria:
 | 022-inputs-outputs-ssp.R     | <https://curso-r.github.io/202105-dashboards/exercicios/022-inputs-outputs-ssp.R>     |
 | 030-sidebarLayout.R          | <https://curso-r.github.io/202105-dashboards/exercicios/030-sidebarLayout.R>          |
 | 031-navbarPage.R             | <https://curso-r.github.io/202105-dashboards/exercicios/031-navbarPage.R>             |
+| 040-shinydashboard.R         | <https://curso-r.github.io/202105-dashboards/exercicios/040-shinydashboard.R>         |
 
 ## Lição de casa extra 🤓
 

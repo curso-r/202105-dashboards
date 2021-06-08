@@ -7,7 +7,7 @@ ui <- dashboardPage(
   ),
   sidebar = dashboardSidebar(),
   body = dashboardBody(),
-  title = "Meu app"
+  title = "outro titulo"
 )
 
 server <- function(input, output, session) {
