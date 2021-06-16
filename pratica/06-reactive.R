@@ -19,6 +19,10 @@ ui <- fluidPage(
 
 server <- function(input, output, session) {
 
+  amostra <- reactive({
+    rnorm(input$num)
+  })
+
   output$histograma <- renderPlot({
     hist(amostra(), main = input$titulo)
   })
@@ -33,9 +37,6 @@ server <- function(input, output, session) {
     )
   })
 
-  amostra <- reactive({
-    rnorm(input$num)
-  })
 
 }
 
