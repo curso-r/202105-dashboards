@@ -74,6 +74,8 @@ Fora do horário de aula ou monitoria:
 | 030-sidebarLayout.R          | <https://curso-r.github.io/202105-dashboards/exercicios/030-sidebarLayout.R>          |
 | 031-navbarPage.R             | <https://curso-r.github.io/202105-dashboards/exercicios/031-navbarPage.R>             |
 | 040-shinydashboard.R         | <https://curso-r.github.io/202105-dashboards/exercicios/040-shinydashboard.R>         |
+| 050-ui-reativa-cetesb.R      | <https://curso-r.github.io/202105-dashboards/exercicios/050-ui-reativa-cetesb.R>      |
+| 051-ui-reativa-pokemon.R     | <https://curso-r.github.io/202105-dashboards/exercicios/051-ui-reativa-pokemon.R>     |
 
 ## Lição de casa extra 🤓
 
