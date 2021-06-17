@@ -39,6 +39,7 @@ Fora do horário de aula ou monitoria:
 | slides/05-shinydashboards.html       | <https://curso-r.github.io/main-dashboards/slides/05-shinydashboards.html>     |
 | slides/06-reatividade-parte-2.html   | <https://curso-r.github.io/main-dashboards/slides/06-reatividade-parte-2.html> |
 | slides/07-htmlwidgets.html           | <https://curso-r.github.io/main-dashboards/slides/07-htmlwidgets.html>         |
+| slides/08-modulos.html               | <https://curso-r.github.io/main-dashboards/slides/08-modulos.html>             |
 
 ## Scripts utilizados em aula
 
@@ -79,6 +80,8 @@ Fora do horário de aula ou monitoria:
 | 050-ui-reativa-cetesb.R      | <https://curso-r.github.io/202105-dashboards/exercicios/050-ui-reativa-cetesb.R>      |
 | 051-ui-reativa-pokemon.R     | <https://curso-r.github.io/202105-dashboards/exercicios/051-ui-reativa-pokemon.R>     |
 | 052-ui-reativa-ssp.R         | <https://curso-r.github.io/202105-dashboards/exercicios/052-ui-reativa-ssp.R>         |
+| 060-htmlwidgets.R            | <https://curso-r.github.io/202105-dashboards/exercicios/060-htmlwidgets.R>            |
+| 061-auth0.R                  | <https://curso-r.github.io/202105-dashboards/exercicios/061-auth0.R>                  |
 
 ## Lição de casa extra 🤓
 
