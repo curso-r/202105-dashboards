@@ -7,31 +7,31 @@
 aqui](https://github.com/curso-r/main-dashboards/raw/master/material_do_curso.zip)
 para baixar o material do curso.
 
--   Mastering Shiny: <https://mastering-shiny.org/>
+  - Mastering Shiny: <https://mastering-shiny.org/>
 
--   Shiny Articles (RStudio): <https://shiny.rstudio.com/articles/>
+  - Shiny Articles (RStudio): <https://shiny.rstudio.com/articles/>
 
--   Engineering Production-Grade Shiny Apps:
+  - Engineering Production-Grade Shiny Apps:
     <https://engineering-shiny.org/>
 
--   R for Data Science: <https://r4ds.had.co.nz/> (em inglês) e
+  - R for Data Science: <https://r4ds.had.co.nz/> (em inglês) e
     <https://es.r4ds.hadley.nz/> (em espanhol).
 
--   Nosso blog: <https://curso-r.com/blog/>
+  - Nosso blog: <https://curso-r.com/blog/>
 
 ## Dúvidas
 
 Fora do horário de aula ou monitoria:
 
--   perguntas gerais sobre o curso deverão ser feitas no Classroom.
+  - perguntas gerais sobre o curso deverão ser feitas no Classroom.
 
--   perguntas sobre R, principalmente as que envolverem código, deverão
+  - perguntas sobre R, principalmente as que envolverem código, deverão
     ser enviadas no [nosso fórum](https://discourse.curso-r.com/).
 
 ## Slides
 
 | slide                                | link                                                                           |
-|:-------------------------------------|:-------------------------------------------------------------------------------|
+| :----------------------------------- | :----------------------------------------------------------------------------- |
 | slides/01-introducao\_ao\_curso.html | <https://curso-r.github.io/main-dashboards/slides/01-introducao_ao_curso.html> |
 | slides/02-shiny-introducao.html      | <https://curso-r.github.io/main-dashboards/slides/02-shiny-introducao.html>    |
 | slides/03-reatividade-parte-1.html   | <https://curso-r.github.io/main-dashboards/slides/03-reatividade-parte-1.html> |
@@ -39,11 +39,12 @@ Fora do horário de aula ou monitoria:
 | slides/05-shinydashboards.html       | <https://curso-r.github.io/main-dashboards/slides/05-shinydashboards.html>     |
 | slides/06-reatividade-parte-2.html   | <https://curso-r.github.io/main-dashboards/slides/06-reatividade-parte-2.html> |
 | slides/07-htmlwidgets.html           | <https://curso-r.github.io/main-dashboards/slides/07-htmlwidgets.html>         |
+| slides/08-modulos.html               | <https://curso-r.github.io/main-dashboards/slides/08-modulos.html>             |
 
 ## Scripts utilizados em aula
 
 | script                        | link                                                                                |
-|:------------------------------|:------------------------------------------------------------------------------------|
+| :---------------------------- | :---------------------------------------------------------------------------------- |
 | 01-ola-mundo.R                | <https://curso-r.github.io/202105-dashboards/pratica/01-ola-mundo.R>                |
 | 02-output.R                   | <https://curso-r.github.io/202105-dashboards/pratica/02-output.R>                   |
 | 03-output-input.R             | <https://curso-r.github.io/202105-dashboards/pratica/03-output-input.R>             |
@@ -67,7 +68,7 @@ Fora do horário de aula ou monitoria:
 ## Lição de casa
 
 | script                       | link                                                                                  |
-|:-----------------------------|:--------------------------------------------------------------------------------------|
+| :--------------------------- | :------------------------------------------------------------------------------------ |
 | 010-meu-primeiro-app.R       | <https://curso-r.github.io/202105-dashboards/exercicios/010-meu-primeiro-app.R>       |
 | 011-mey-segundo-app.R        | <https://curso-r.github.io/202105-dashboards/exercicios/011-mey-segundo-app.R>        |
 | 020-inputs-outputs-credito.R | <https://curso-r.github.io/202105-dashboards/exercicios/020-inputs-outputs-credito.R> |
@@ -85,7 +86,7 @@ Fora do horário de aula ou monitoria:
 ## Lição de casa extra 🤓
 
 | script                       | link                                                                                  |
-|:-----------------------------|:--------------------------------------------------------------------------------------|
+| :--------------------------- | :------------------------------------------------------------------------------------ |
 | extra-010-input-output.R     | <https://curso-r.github.io/202105-dashboards/exercicios/extra-010-input-output.R>     |
 | extra-020-input-output.R     | <https://curso-r.github.io/202105-dashboards/exercicios/extra-020-input-output.R>     |
 | extra-021-selecao-multipla.R | <https://curso-r.github.io/202105-dashboards/exercicios/extra-021-selecao-multipla.R> |
@@ -96,7 +97,7 @@ Fora do horário de aula ou monitoria:
 Referências extras comentadas nas aulas.
 
 | Aula | Tema           | Descrição                                                                                         |
-|-----:|:---------------|:--------------------------------------------------------------------------------------------------|
+| ---: | :------------- | :------------------------------------------------------------------------------------------------ |
 |    1 | Material Extra | [Engineering Shiny (livro)](https://engineering-shiny.org/)                                       |
 |    1 | Material Extra | [Environments no R](https://blog.curso-r.com/posts/2017-06-19-environments)                       |
 |    1 | Material Extra | [Criando inputs customizados (avançado)](https://shiny.rstudio.com/articles/building-inputs.html) |
@@ -105,7 +106,7 @@ Materiais que comentamos quando tiramos dúvidas (não necessariamente são
 relacionadas com o conteúdo da aula).
 
 | Aula | Tema | Descrição |
-|-----:|:-----|:----------|
+| ---: | :--- | :-------- |
 
 ## Redes sociais da Curso-R
 
